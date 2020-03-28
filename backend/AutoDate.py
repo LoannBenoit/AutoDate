@@ -3,7 +3,7 @@ import docx
 import re
 from docx.enum.text import WD_COLOR_INDEX
 
-doc = docx.Document('resources/fiche_histoire.docx')
+doc = docx.Document('../resources/fiche_histoire.docx')
 
 regex = r"(\d{4}\s?[:])|(\d{4}\s*[=]\s?[>])|(\d{4}\s?[-]\s?\d{4})|([A]\d{2})"
 
