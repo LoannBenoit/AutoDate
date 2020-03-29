@@ -1,0 +1,3 @@
+([('autodate',
+   '/Users/loann/Documents/Projects/script_Alisone/AutoDate/autodate/dist/autodate',
+   'EXECUTABLE')],)
